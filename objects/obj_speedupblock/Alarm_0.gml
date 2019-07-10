@@ -3,3 +3,4 @@
 in=false
 out=true
 obj_lancer.speedZ=cachespd
+played=0

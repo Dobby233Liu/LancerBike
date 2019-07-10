@@ -3,3 +3,4 @@
 in = false
 out = true
 cachespd = obj_lancer.speedZ
+played=0

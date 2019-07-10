@@ -1,0 +1,4 @@
+lancer_x=52
+lancer_y=331
+graceful=true
+target_room=room_level1_parts1

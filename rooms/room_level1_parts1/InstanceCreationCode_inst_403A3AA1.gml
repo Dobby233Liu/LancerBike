@@ -1,0 +1,3 @@
+sprite_index=spr_here
+target_room=room_complete_nocontiune
+visible=1
