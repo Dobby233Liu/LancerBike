@@ -7,8 +7,8 @@
     "option_windows_borderless": false,
     "option_windows_company_info": "Dobby233Liu",
     "option_windows_copy_exe_to_dest": false,
-    "option_windows_copyright_info": "Game written by Dobby233Liu. Toby Fox is a trandmark of UNDERTALE and DELTARUNE.",
-    "option_windows_description_info": "A GameMaker Studio 2 Game",
+    "option_windows_copyright_info": "Game written by Dobby233Liu. UNDERTALE and DELTARUNE is a trandmark of Toby Fox.",
+    "option_windows_description_info": "LancerBike (EA)",
     "option_windows_disable_sandbox": true,
     "option_windows_display_cursor": false,
     "option_windows_display_name": "LancerBike",
@@ -31,8 +31,8 @@
     "option_windows_texture_page": "2048x2048",
     "option_windows_use_splash": false,
     "option_windows_version": {
-        "build": 0,
-        "major": 1,
+        "build": 1,
+        "major": 0,
         "minor": 0,
         "revision": 0
     },
