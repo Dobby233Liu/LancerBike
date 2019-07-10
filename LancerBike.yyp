@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "07dd89c9-e6d8-430d-a2f4-3ce25cab0ef5",
+            "Value": {
+                "id": "af0530a9-1eb5-49d4-b83f-c3ed25d9973c",
+                "resourcePath": "sounds\\snd_drive2\\snd_drive2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "07e4cc77-55ba-4907-9663-3f389649a74c",
             "Value": {
                 "id": "0f1240b1-7995-49bf-a6ef-66d888798f92",
@@ -100,6 +108,14 @@
                 "id": "63a97a77-e064-4ccb-abd1-cef5c92d1412",
                 "resourcePath": "sounds\\snd_drive\\snd_drive.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "176657cd-683f-45f5-a7f3-fc4ca84ab330",
+            "Value": {
+                "id": "61c99eed-fd6a-4075-85c2-5d752ec63702",
+                "resourcePath": "sprites\\spr_blkrect\\spr_blkrect.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +180,14 @@
                 "id": "1facab83-9b79-4343-bfa4-03587ad5f7ee",
                 "resourcePath": "sprites\\spr_lbike_hurt\\spr_lbike_hurt.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2e63d4b3-8083-4345-9ac5-237ba6ee25dd",
+            "Value": {
+                "id": "d877facd-f85a-44df-80bd-2601d72a1684",
+                "resourcePath": "objects\\obj_speedupblock\\obj_speedupblock.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -423,11 +447,27 @@
             }
         },
         {
+            "Key": "a55e2f4f-f360-4d7b-8d38-e982a7d50a94",
+            "Value": {
+                "id": "6e90ae83-a652-4ac7-885f-6d783d266513",
+                "resourcePath": "sprites\\spr_honknoise\\spr_honknoise.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "0f20726c-d730-4abb-86fa-43b6b37e3e8f",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ae575d29-74c7-4fe5-9bcc-89fd3f3b5a0e",
+            "Value": {
+                "id": "e6edae33-1e5a-4e9a-b4a7-6bf5aafca526",
+                "resourcePath": "objects\\obj_growai\\obj_growai.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -471,6 +511,14 @@
             }
         },
         {
+            "Key": "c1ae870b-7d44-4bcf-bd24-ef1e9c2d8995",
+            "Value": {
+                "id": "14e314f9-ef11-4b84-b279-f281a530521b",
+                "resourcePath": "sprites\\spr_jaildoor\\spr_jaildoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c26af9bd-f87e-472f-8a9c-abbaf702a5a3",
             "Value": {
                 "id": "c7fb8b60-9550-4a77-a121-7791daa5581a",
@@ -484,6 +532,14 @@
                 "id": "97206d69-a1ed-49a8-9fc2-17697de68a22",
                 "resourcePath": "sounds\\snd_honk\\snd_honk.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "cc98cc8e-f595-4061-91fa-8bca3016fe23",
+            "Value": {
+                "id": "864dc6e9-2bb1-428d-973c-955a215cc150",
+                "resourcePath": "objects\\obj_blockparent\\obj_blockparent.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -543,11 +599,27 @@
             }
         },
         {
+            "Key": "f13239aa-9f03-4c1a-ac48-6b69ebe71226",
+            "Value": {
+                "id": "e08acdfd-ba23-4a3a-8599-500735a9119a",
+                "resourcePath": "sprites\\spr_speedupblock\\spr_speedupblock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "42654a89-109b-40e1-89da-5a48e614333a",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f83a50a2-3ee3-428b-9562-59a9187b3afa",
+            "Value": {
+                "id": "3e880dbe-29ec-4486-8e8e-cdcab78af9a5",
+                "resourcePath": "objects\\obj_block_rect\\obj_block_rect.yy",
+                "resourceType": "GMObject"
             }
         },
         {

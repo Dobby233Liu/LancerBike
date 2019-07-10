@@ -10,3 +10,5 @@ speedZ=8
 audio_play_sound(snd_drive,30,false)
 counter=0
 whistle=0
+drivesnd=undefined
+global.phasing=0
